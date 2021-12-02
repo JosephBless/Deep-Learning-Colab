@@ -1,4 +1,3 @@
-# DL
-DL NTU 
-Professor
-Lee Hung Yi
+Deep Learning Models
+Stanford Andrew Ng
+NTU EE Professor Lee Hung-Yi
