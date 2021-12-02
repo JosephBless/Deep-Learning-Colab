@@ -1,3 +1,3 @@
-Deep Learning Models
-Stanford Andrew Ng
+Deep Learning Models references: 
+Stanford Andrew Ng,
 NTU EE Professor Lee Hung-Yi
